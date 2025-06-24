@@ -43,3 +43,6 @@ This project compares how the pandemic evolved across both countries, with a foc
 
 ## 📁 Project Structure
 
+=======
+# covid-trend-analysis
+COVID-19 analysis using Python for Nigeria and the US
